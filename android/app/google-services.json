@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948443748468",
+    "project_id": "mithab-test",
+    "storage_bucket": "mithab-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948443748468:android:b9e66f8d655fb27e669921",
+        "android_client_info": {
+          "package_name": "com.senjab.mithab.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948443748468-tu3ha6c84v8frelp16am28if2u23tr8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAeY-Pt9tBTOO0-Vw7UjoQ2vAulBJiaWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948443748468-tu3ha6c84v8frelp16am28if2u23tr8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
